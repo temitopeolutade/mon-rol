@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mon-rol/static/css/main.a0744f62.chunk.css",
+    "main.js": "/mon-rol/static/js/main.767d3d9b.chunk.js",
+    "main.js.map": "/mon-rol/static/js/main.767d3d9b.chunk.js.map",
+    "runtime-main.js": "/mon-rol/static/js/runtime-main.fc0dd02b.js",
+    "runtime-main.js.map": "/mon-rol/static/js/runtime-main.fc0dd02b.js.map",
+    "static/js/2.7aaef059.chunk.js": "/mon-rol/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/mon-rol/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/mon-rol/index.html",
+    "precache-manifest.8377553eddf3a8f80f8d48b5ea676395.js": "/mon-rol/precache-manifest.8377553eddf3a8f80f8d48b5ea676395.js",
+    "service-worker.js": "/mon-rol/service-worker.js",
+    "static/css/main.a0744f62.chunk.css.map": "/mon-rol/static/css/main.a0744f62.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/mon-rol/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc0dd02b.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.a0744f62.chunk.css",
+    "static/js/main.767d3d9b.chunk.js"
+  ]
+}
